@@ -7,3 +7,6 @@ set shiftwidth=4
 set smarttab
 set encoding=UTF-8
 
+call plug#begin()
+
+call plug#end()
