@@ -9,4 +9,6 @@ set encoding=UTF-8
 
 call plug#begin()
 
+Plug 'https://github.com/vim-airline/vim-airline'  " Vim airline
+
 call plug#end()
